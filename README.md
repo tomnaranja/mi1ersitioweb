@@ -1,5 +1,3 @@
-<img src="https://github.com/user-attachments/assets/cf4ac338-6daf-4973-86eb-68f8d0c31e4a" alt="Shakira cantando" width="300">
-
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -12,8 +10,9 @@
 
   <h1>Shakira Isabel Mebarak Ripoll</h1>
 
-  <!-- Imagen -->
-  <img src="imagen1.jpg" alt="Shakira cantando" width="300">
+  <!-- Imagen desde GitHub -->
+  <img src="https://github.com/user-attachments/assets/cf4ac338-6daf-4973-86eb-68f8d0c31e4a"
+       alt="Shakira cantando" width="300">
 
   <!-- Párrafo -->
   <p>
@@ -24,9 +23,10 @@
 
   <!-- Video -->
   <video width="400" controls>
-    <source src="video1.mp4" type="video/mp4">
+    <source src="https://github.com/user-attachments/assets/e26f306c-fec7-469a-8a28-46a7fcf74585" type="video/mp4">
     Tu navegador no soporta la etiqueta de video.
   </video>
 
 </body>
 </html>
+

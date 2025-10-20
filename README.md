@@ -1,3 +1,4 @@
+<img src="https://github.com/user-attachments/assets/cf4ac338-6daf-4973-86eb-68f8d0c31e4a" alt="Shakira cantando" width="300">
 
 <!DOCTYPE html>
 <html lang="es">

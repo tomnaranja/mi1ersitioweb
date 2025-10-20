@@ -23,15 +23,10 @@
 
   <!-- Video -->
   <video width="400" controls>
-    <source src=
-
-https://github.com/user-attachments/assets/19174455-acaf-465c-8031-5c1adb20dd8a
-
-"https://github.com/user-attachments/assets/e26f306c-fec7-469a-8a28-46a7fcf74585" type="video/mp4">
+    <source src="https://github.com/user-attachments/assets/e26f306c-fec7-469a-8a28-46a7fcf74585" type="video/mp4">
     Tu navegador no soporta la etiqueta de video.
   </video>
 
 </body>
 </html>
-
 

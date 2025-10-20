@@ -6,7 +6,8 @@
   <title>Shakira</title>
   <link rel="stylesheet" href="estilo.css">
 </head>
-<body>
+<body>![images](https://github.com/user-attachments/assets/cf4ac338-6daf-4973-86eb-68f8d0c31e4a)
+
   <h1>Shakira Isabel Mebarak Ripoll</h1>
   
   <img src="imagen1.jpg" alt="Shakira cantando" width="300">
@@ -17,6 +18,6 @@
     artistas más influyentes de habla hispana.
   </p>
 
-  <video src="video1.mp4" controls width="400"></video>
+  <video src=https://www.youtube.com/watch?v=CocEMWdc7Ck
 </body>
 </html>

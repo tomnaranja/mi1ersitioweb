@@ -30,6 +30,37 @@ https://github.com/user-attachments/assets/b157d45a-c0d0-42e3-8518-8677a495d66e
 ttps://github.com/user-attachments/assets/e26f306c-fec7-469a-8a28-46a7fcf74585" type="video/mp4">
     Tu navegador no soporta la etiqueta de video.
   </video>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f4f4f4;
+  color: #222;
+  text-align: center;
+  margin: 40px;
+}
+
+h1 {
+  color: #c2185b;
+  font-size: 2.2em;
+  margin-bottom: 20px;
+}
+
+img {
+  border-radius: 15px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+
+p {
+  max-width: 600px;
+  margin: 20px auto;
+  line-height: 1.6;
+  font-size: 1.1em;
+}
+
+video {
+  margin-top: 25px;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+}
 
 </body>
 </html>

@@ -10,22 +10,21 @@
 
   <h1>Shakira Isabel Mebarak Ripoll</h1>
 
-  <!-- Imagen -->
-  <img src="https://github.com/user-attachments/assets/cf4ac338-6daf-4973-86eb-68f8d0c31e4a"
-       alt="Shakira cantando" width="300">
+  <img src="imagen1.jpg" alt="Shakira cantando" width="300">
 
-  <!-- Párrafo -->
   <p>
     Shakira es una cantante, compositora y productora colombiana reconocida por su estilo único
     que fusiona pop, rock y ritmos latinos. Ha ganado múltiples premios Grammy y es una de las
     artistas más influyentes de habla hispana.
   </p>
 
-  <!-- Video -->
-  <video width="400" controls>
-    <source src="https://github.com/user-attachments/assets/e26f306c-fec7-469a-8a28-46a7fcf74585" type="video/mp4">
-    Tu navegador no soporta la etiqueta de video.
-  </video>
+  <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/CocEMWdc7Ck"
+          title="Video de Shakira"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen>
+  </iframe>
 
 </body>
 </html>
